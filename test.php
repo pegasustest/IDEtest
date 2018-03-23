@@ -24,4 +24,6 @@ a = 'asdasdasd';
 $somevar = 'adasdasdasd';
 
 
-$other = substr()
+$other = substr(0,6,$somevar);
+
+?>
